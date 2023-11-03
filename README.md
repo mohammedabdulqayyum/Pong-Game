@@ -1,0 +1,1 @@
+The project "Pong Game Built in Python Using Turtle GUI" is a good introduction to Python programming and game development. It teaches the basics of object-oriented programming, game loops, and user input handling. The project is also a fun way to learn about the Turtle graphics library.
